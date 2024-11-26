@@ -40,18 +40,18 @@ When the page is first loaded, no key has been pressed, so only the introductory
 
 ![Initial Screen](image1.png)
 
-
 ### 2. Pressing Space
 
 When the spacebar is pressed, the ASCII value and other key details are displayed, and the type of key is shown as a "Special Character / Other."
 
 ![Space Key Pressed](image2.png)
 
-### 3. Pressing Capital 'A'
+### 3. Pressing Small 'a'
 
-When the capital letter 'A' is pressed, the key details are shown, and the type is identified as "Uppercase Letter."
+When the small letter 'a' is pressed, the key details are shown, and the type is identified as "Lowercase Letter."
 
-![Capital 'A' Key Pressed](image4.png)
+![Small 'a' Key Pressed](image3.png)
+
 
 ### 4. Pressing '1'
 
@@ -80,7 +80,7 @@ When the `*` key is pressed, the key details are shown, and the type is identifi
 
 You can try the **ASCII KeyCode Visualizer** online by visiting the following link:
 
-[ASCII KeyCode Visualizer Demo](https://example.com)
+[ASCII KeyCode Visualizer Demo](https://imtahirnaseer.github.io/Code-Visualizer/)
 
 ---
 
