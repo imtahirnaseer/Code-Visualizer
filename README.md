@@ -41,11 +41,11 @@ When the page is first loaded, no key has been pressed, so only the introductory
 ![Initial Screen](image1.png)
 
 
-### 2. Pressing Small 'a'
+### 2. Pressing Space
 
-When the small letter 'a' is pressed, the key details are shown, and the type is identified as "Lowercase Letter."
+When the spacebar is pressed, the ASCII value and other key details are displayed, and the type of key is shown as a "Special Character / Other."
 
-![Small 'a' Key Pressed](image3.png)
+![Space Key Pressed](image2.png)
 
 ### 3. Pressing Capital 'A'
 
