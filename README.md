@@ -38,32 +38,32 @@ The project consists of the following files:
 
 When the page is first loaded, no key has been pressed, so only the introductory screen is visible.
 
-![Initial Screen](image1.png)
+![Initial Screen](https://github.com/imtahirnaseer/Code-Visualizer/blob/7ad000a1013f0f2d9570303f6d5c5f38eb3d3362/Screenshot%202024-11-26%20123750.png)
 
 ### 2. Pressing Space
 
 When the spacebar is pressed, the ASCII value and other key details are displayed, and the type of key is shown as a "Special Character / Other."
 
-![Space Key Pressed](image2.png)
+![Space Key Pressed](https://github.com/imtahirnaseer/Code-Visualizer/blob/7ad000a1013f0f2d9570303f6d5c5f38eb3d3362/Screenshot%202024-11-26%20123823.png)
 
 ### 3. Pressing Small 'a'
 
 When the small letter 'a' is pressed, the key details are shown, and the type is identified as "Lowercase Letter."
 
-![Small 'a' Key Pressed](image3.png)
+![Small 'a' Key Pressed](https://github.com/imtahirnaseer/Code-Visualizer/blob/7ad000a1013f0f2d9570303f6d5c5f38eb3d3362/Screenshot%202024-11-26%20123906.png)
 
 
 ### 4. Pressing '1'
 
 When the number '1' is pressed, the key details are shown, and the type is identified as "Number."
 
-![Number '1' Key Pressed](image5.png)
+![Number '1' Key Pressed](https://github.com/imtahirnaseer/Code-Visualizer/blob/7ad000a1013f0f2d9570303f6d5c5f38eb3d3362/Screenshot%202024-11-26%20123946.png)
 
 ### 5. Pressing `*`
 
 When the `*` key is pressed, the key details are shown, and the type is identified as "Special Character / Other."
 
-![Asterisk Key Pressed](image6.png)
+![Asterisk Key Pressed](https://github.com/imtahirnaseer/Code-Visualizer/blob/7ad000a1013f0f2d9570303f6d5c5f38eb3d3362/Screenshot%202024-11-26%20124010.png)
 
 ---
 
